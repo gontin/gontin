@@ -11,7 +11,6 @@
 - **English** (Intermediate/High)
 - **Portuguese** (Fluent)
 - **Git/GitHub** (Intermediate)
-- **ChatGPT prompts** (Advanced)
 
 ### 📫 How to reach me:
 - **Discord:** gonter_
