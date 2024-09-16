@@ -5,6 +5,7 @@
 - HTML/CSS
 - Low-code platforms
 - Flask
+- Fast-API
 
 ### 🐱‍👤 I have experience with:
 - **C** (Intermediate)
