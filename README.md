@@ -8,10 +8,15 @@
 - Fast-API
 
 ### 🐱‍👤 I have experience with:
+- **Python** (Intermediate)
 - **C** (Intermediate)
-- **English** (Intermediate/High)
-- **Portuguese** (Fluent)
 - **Git/GitHub** (Intermediate)
+- **Flask** (Intermediate)
+- **HTML/CSS** (Intermediate)
+
+### 🚩 Languajes i speck:
+- **Portuguese** (Fluent)
+- **English** (high)
 
 ### 📫 How to reach me:
 - **Discord:** gonter_
