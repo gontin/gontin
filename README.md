@@ -8,11 +8,11 @@
 - **FastAPI**
 
 ### 🐱‍👤 I have experience with:
-- **Python** (Intermediate)
-- **C** (Intermediate)
-- **Git/GitHub** (Intermediate)
-- **Flask** (Intermediate)
-- **HTML/CSS** (Intermediate)
+- **Python**
+- **C**
+- **Git/GitHub**
+- **Flask**
+- **HTML/CSS**
 
 ### 🚩 Languages I speak:
 - **Portuguese** (Fluent)
