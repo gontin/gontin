@@ -8,6 +8,9 @@
 - **Low-code platforms** ⚙️
 - **Flask** 🔥
 - **FastAPI** ⚡
+- **Django** ⚖️
+- **Node.js** 🤖
+- **MySQL** 📂
 
 ---
 
@@ -17,13 +20,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🗣 Languages:
+## 🔦 Languages:
 - **Portuguese** (Fluent) 🇧🇷
 - **English** (Proficient) 🇺🇸
 
@@ -34,12 +40,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gontin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nicoletti-2179b62a8/)
 
-
 ---
 
-## Fun Facts 😸
-- 🔭 **Currently working on:** Fun and quirky projects ᓚᘏᗢ
+## Fun Facts 🐸
+- 🌟 **Currently working on:** Full Stack projects 
 - 👯 **Open to collaborating on:** Almost anything! 😄
-- 🤔 **Looking for:** Opportunities to learn more and explore job possibilities!
+- 🧐 **Looking for:** Opportunities to learn more and explore job possibilities!
 - 🐾 I love **cats**, **cake**, **Yuumi**, and **coffee** ☕
 - 💧 Don't forget to stay hydrated!
