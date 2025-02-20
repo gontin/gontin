@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gontin!
+# Hii, I'm Gontin!
 
 <img src="https://i.pinimg.com/564x/79/1b/3a/791b3a33b2ce3320ca1817310ad9ae58.jpg" alt="banner miau miau">
 
