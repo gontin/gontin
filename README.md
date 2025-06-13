@@ -3,34 +3,42 @@
 <img src="https://i.pinimg.com/564x/79/1b/3a/791b3a33b2ce3320ca1817310ad9ae58.jpg" alt="banner miau miau">
 
 ## 🌱 Learning and Improving:
-- **Python** 🐍
-- **HTML/CSS** 🌐
-- **Low-code platforms** ⚙️
-- **Flask** 🔥
-- **FastAPI** ⚡
-- **Django** ⚖️
-- **Node.js** 🤖
-- **MySQL** 📂
+- **Python** 🐍  
+- **HTML/CSS** 🌐  
+- **JavaScript** ✨  
+- **React** ⚛️  
+- **Node.js** 🤖  
+- **Next.js** 🚀  
+- **Prisma** 🌿  
+- **Low-code platforms** ⚙️  
+- **Flask** 🔥  
+- **FastAPI** ⚡  
+- **Django** ⚖️  
+- **MySQL** 📂  
 
 ---
 
 ## 🧠 Experience:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 ---
 
 ## 🔦 Languages:
-- **Portuguese** (Fluent) 🇧🇷
+- **Portuguese** (Fluent) 🇧🇷  
 - **English** (Proficient) 🇺🇸
 
 ---
@@ -43,9 +51,9 @@
 
 ---
 
-## Fun Facts 🐸
-- 🌟 **Currently working on:** Full Stack projects 
-- 👯 **Open to collaborating on:** Almost anything! 😄
-- 🧐 **Looking for:** Opportunities to learn more and explore job possibilities!
-- 🐾 I love **cats**, **cake**, **Yuumi**, and **coffee** ☕
-- 💧 Don't forget to stay hydrated!
+## 🎉 Fun Facts:
+- 🌟 **Currently working on:** Full Stack projects com Node.js, React, Next.js e Prisma  
+- 👯 **Open to collaborating on:** Quase tudo! 😄  
+- 🧐 **Looking for:** Oportunidades para aprender mais e explorar possibilidades de trabalho  
+- 🐾 Amo **gatos**, **bolo**, **Yuumi** e **café** ☕  
+- 💧 **Não se esqueça de se hidratar!**
