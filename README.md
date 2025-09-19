@@ -1,6 +1,6 @@
 # Hii, I'm Gontin!
 
-<img src="https://i.pinimg.com/564x/79/1b/3a/791b3a33b2ce3320ca1817310ad9ae58.jpg" alt="banner miau miau">
+<img src="https://i.pinimg.com/736x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg" alt="banner miau miau">
 
 ## 🌱 Learning and Improving:
 - **Python** 🐍  
