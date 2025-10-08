@@ -2,18 +2,6 @@
 
 <img src="https://i.pinimg.com/736x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg" alt="banner miau miau">
 
-## 🌱 Learning and Improving:
-- **Python** 🐍  
-- **HTML/CSS** 🌐  
-- **JavaScript** ✨  
-- **React** ⚛️  
-- **Node.js** 🤖  
-- **Next.js** 🚀   
-- **Flask** 🔥  
-- **FastAPI** ⚡  
-- **Django** ⚖️  
-- **MySQL** 📂  
-
 ---
 
 ## 🧠 Experience:
