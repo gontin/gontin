@@ -37,8 +37,5 @@
 ---
 
 ## 🎉 Fun Facts:
-- 🌟 **Currently working on:** Full Stack projects com Node.js, React, Next.js e Prisma  
-- 👯 **Open to collaborating on:** Quase tudo! 😄  
-- 🧐 **Looking for:** Oportunidades para aprender mais e explorar possibilidades de trabalho  
 - 🐾 Amo **gatos**, **bolo**, **Yuumi** e **café** ☕  
 - 💧 **Não se esqueça de se hidratar!**
