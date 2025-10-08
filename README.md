@@ -1,4 +1,4 @@
-# Hii, I'm Gontin!
+# Hii, I'm Gontin :D
 
 <img src="https://i.pinimg.com/736x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg" alt="banner miau miau">
 
