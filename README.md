@@ -30,10 +30,9 @@
 ## Let's Connect Perhaps?:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gus.nicoletti@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/272526944678051840)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gontin)
 
 ---
 
-## Fun Facts:
+## Silly section:
 - I love cats, strawberry cake, Yuumi and coffee  
-- remember to hydrate
+- Remember to hydrate
