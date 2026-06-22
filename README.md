@@ -20,7 +20,7 @@
 
 ---
 
-## I Speack:
+## I Speak:
 - **Portuguese** 🇧🇷  
 - **English** 🇺🇸
 - **Meow** ₍^. .^₎⟆
