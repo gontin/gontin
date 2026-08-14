@@ -23,7 +23,6 @@
 ## I Speak:
 - **Portuguese** 🇧🇷  
 - **English** 🇺🇸
-- **Meow** ₍^. .^₎⟆
 
 ---
 
